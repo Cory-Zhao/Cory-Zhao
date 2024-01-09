@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/coryzhao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
   </a>
-  <a href="coryzhao@gmail.com">
+  <a href=mailto:"coryzhao@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height ="25"/>
   </a>
 </div>

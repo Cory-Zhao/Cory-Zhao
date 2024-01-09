@@ -24,8 +24,26 @@
 ---
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
 
-- :man: My name is Cory Zhao, born and raised in California (US).
-- :man_technologist: I am a junior at UC Santa Barbara studying Computer Science. 
+🚀 Welcome to my GitHub! I'm Cory Zhao, a versatile developer passionate about crafting seamless web experiences from frontend to backend. I love to learn, currently a Junior studying Computer Science at UC Santa Barbara.
+
+🌐 **Full-Stack Enthusiast:**
+  - Proficient in frontend technologies such as HTML, JavaScript, React.
+  - Backend expertise in languages like Node.js, Python, C++, and databases such as MySQL.
+
+🛠️ **Toolbox:**
+  - Comfortable with Git, AWS, and other tools that streamline the development process.
+
+🔧 **Coding Philosophy:**
+  - I believe in clean, maintainable code and am committed to creating applications that deliver a stellar user experience.
+
+👨‍💻 **Current Focus:**
+  - Actively working on my project NBA_stats, combining APIs with databases, weaving backend with frontend to display desired statistics.
+  
+🌱 **Learning Journey:**
+  - Always eager to expand my skill set—currently diving deeper into REST APIs, databases, computer networks, and more.
+
+📬 **Let's Connect:**
+  - Open to collaboration and networking opportunities. Feel free to reach out via LinkedIn or email.
 
 
 <!--

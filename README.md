@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
@@ -17,6 +15,18 @@
     <img src="https://komarev.com/ghpvc/?username=Cory-Zhao&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+
+<h1>
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
+
+- :man: My name is Cory Zhao, born and raised in California (US).
+- :man_technologist: I am a junior at UC Santa Barbara studying Computer Science. 
+
 
 <!--
 **Cory-Zhao/Cory-Zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
